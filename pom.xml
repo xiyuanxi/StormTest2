@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.harvey</groupId>
-  <artifactId>stormtest1</artifactId>
+  <artifactId>StormTest2</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>stormtest1 Maven Webapp</name>
+  <name>StormTest2 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
 	<repositories>
@@ -65,7 +65,7 @@
 
   </dependencies>
   <build>
-    <finalName>stormtest1</finalName>
+    <finalName>StormTest2</finalName>
 
 	<defaultGoal>install</defaultGoal>
 	<plugins>
